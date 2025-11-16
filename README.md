@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KAJPA</h1>
 <h3 align="center">nerdzik</h3>
 
-- 🌱 I’m currently learning **OpenAI api and AI development**
+- 🌱 I’m currently learning **Machine Learning and AI development**
 
 - 📫 How to reach me **kacperpopkols@gmail.com**
 

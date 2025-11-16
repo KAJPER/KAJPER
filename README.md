@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and AI development**
 
-- 📫 How to reach me **kacperpopkols@gmail.com**
+- 📫 How to reach me **kontakt@kajpa.pl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
